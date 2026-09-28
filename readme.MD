@@ -1,5 +1,5 @@
 # KREW INSTALL
-Make sure git is installed.
+# Make sure git is installed.
 ## Windows
 
 Download `krew.exe` and place it in the following directory:
